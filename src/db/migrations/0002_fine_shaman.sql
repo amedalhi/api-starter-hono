@@ -1,1 +1,0 @@
-ALTER TABLE `chips` ALTER COLUMN "created_at" TO "created_at" integer;
