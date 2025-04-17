@@ -1,8 +1,5 @@
-```
-npm install
-npm run dev
-```
+#API Framework
 
-```
-open http://localhost:3000
-```
+## Credit
+
+Followed CJ's YouTube tutorial to create this template.
